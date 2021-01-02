@@ -2,7 +2,7 @@
 
 O projeto publicado é referente ao treinamento do Curso BOOTCAMP - Desenvolvedor NodeJS da Digital Innovation One (https://digitalinnovation.one).
 
-Foi publicado a criação de uma API em Json para simular a conexão de um banco de dados. Para testar, é utilizado o Postman para acessar a api, usando os metodos GET(), POST(), PUT(), DELETE(). 
+Foi criado uma API em Json para simular a conexão de um banco de dados. Para testar, é utilizado o Postman para acessar a api, usando os metodos GET(), POST(), PUT(), DELETE(). 
 
 Utilizado as tecnologias voltado ao BackEnd + JavaScript + NodeJS + Express. Aplicado conceitos de: Criação de ambiente NodeJS + Express. Criação de Rotas utilizando os conceitos de Modulo. Criação de API com Express com uso dos metodos GET( ), POST( ), PUT( ), DELETE( ). Utilização de Postman, para acessar o app.
 
