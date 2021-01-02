@@ -37,7 +37,7 @@ Para verificar se o NodeJS esta funcionando, crie algo simples, como por exemplo
 
 
 #### EXPRESS
-Apos instalar o NodeJS, o NPM tambem é instalado. Para verificar a versão do NPM utilize o comando abaixo:
+Apos instalar o NodeJS, o NPM tambem será instalado. Para verificar a versão do NPM utilize o comando abaixo:
 
 `   Comando: npm -v   `	
 
