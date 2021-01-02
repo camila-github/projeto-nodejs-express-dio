@@ -7,17 +7,19 @@ Foi publicado a criação de uma API em Json para simular a conexão de um banco
 Utilizado as tecnologias voltado ao BackEnd + JavaScript + NodeJS + Express. Aplicado conceitos de: Criação de ambiente NodeJS + Express. Criação de Rotas utilizando os conceitos de Modulo. Criação de API com Express com uso dos metodos GET(), POST(), PUT(), DELETE(). Utilização de Postman, para acessar o app.
 
 
+
 ## Pre-Requisitos: 
 
 #### IDE: 
 Pode ser utilizado qualquer IDE de preferencia. O mecionado abaixo é apenas uma sugestão.
 IDE que utilizei: Vscode
 
-```
+``
 Link: https://code.visualstudio.com/ 
-```
+``
 
 No site do Vscode é possivel encontrar orientação de como instalar o vscode.
+
 
 
 #### NODEJS: 
