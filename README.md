@@ -128,7 +128,7 @@ Resultado esperado: Ola mundo com Express!
 Utilizado o Postman. Para utilizar o Postman, basta instalar o APP em seu computador. Isso pode ser realizado de duas maneiras: Instalando a versão desktop (Basta acessar, baixar a versão e instalar o executável) ou Instalando a extensão do Chrome (Basta acessar a Chrome Store e instalar a extensão do Postman). Eu instalei o Postman no computador.
 
 ```
-Link: https://www.postman.com/downloads/
+https://www.postman.com/downloads/
 ```
 
 
