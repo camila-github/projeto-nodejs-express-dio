@@ -11,7 +11,7 @@ const userRoute = require('./routes/userRoute');
 const app = express();
 const port = 3000;
 
-/*Transformacao do dado do '.post' do formulario em objeto. Para ter disposivel no 'req.body'*/
+/*Transformacao do dado do '.post' do formulario em objeto. Para ter disponivel no 'req.body'*/
 app.use(bodyParser.urlencoded({ extended: false }));
 
 
@@ -19,8 +19,8 @@ app.use(bodyParser.urlencoded({ extended: false }));
 para a função userRoute, que esta no arquivo userRoute.js*/
 userRoute(app);
 
-/*Comando para testar a conexão express*/
+/*Comando para testar a conexão express com navegador*/
 app.get('/', (req, res) => res.send('Ola mundo com Express!'));
 
-/*Comando para testar a nodejs*/
+/*Comando para testar o servidor nodejs*/
 app.listen(port, () => console.log('Api rodando na porta 3000'));
