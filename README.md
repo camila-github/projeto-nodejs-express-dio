@@ -12,18 +12,21 @@ Utilizado as tecnologias voltado ao BackEnd + JavaScript + NodeJS + Express, e a
 #### IDE: 
 Pode ser utilizado qualquer IDE de preferencia. O mecionado abaixo é apenas uma sugestão.
 IDE que utilizei: Vscode
-`Link: https://code.visualstudio.com/`
+
+` Link: https://code.visualstudio.com/ `
 
 No site do Vscode é possivel encontrar orientação de como instalar o vscode.
 
 
 #### NODEJS: 
 O Node normalmente é disponibilizado em duas versões, a Current que é a versão mais atual e a LTS que é a de suporte de longo tempo. O LTS significa que esta é a versão mais estável que receberá suporte do time do Node até uma nova versão LTS. Eu utilizei a versão do LTS. Ao fazer o download escolha de acordo com o seu tipo de sistema operacional. 
-> Link: https://nodejs.org/en/
+
+` Link: https://nodejs.org/en/ `
 
 
 Para verificar a versão do NodeJS, utilize o comando abaixo, no terminal (ou prompt de comando) do sistema operacional:
-> Comando:  node -v
+
+` Comando:  node -v `
 
 
 Para verificar se o NodeJS esta funcionando, crie algo simples, como por exemplo uma pasta do seu projeto. Crie um arquivo index.js, digite algo para mostrar na tela do terminal (por exemplo: console.log ('NodeJS Funcionando!!!') ), depois abra o terminal, vá ate o caminho onde esta o seu projeto com o arquivo index.js e digite o comando abaixo. Se aparecer a mensagem do console log, então o nodeJS esta funcionando.
