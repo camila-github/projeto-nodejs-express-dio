@@ -11,22 +11,23 @@ Utilizado as tecnologias voltado ao BackEnd + JavaScript + NodeJS + Express. Apl
 ## Pre-Requisitos: 
 
 #### IDE: 
-Pode ser utilizado qualquer IDE de preferencia. O mecionado abaixo é apenas uma sugestão.
-IDE que utilizei: Vscode
+Pode ser utilizado qualquer IDE de preferencia. O link informado abaixo é apenas uma sugestão.
+
+IDE que utilizei:  VSCODE
 
 ```
-Link: https://code.visualstudio.com/ 
+https://code.visualstudio.com/ 
 ```
 
-No site do Vscode é possivel encontrar orientação de como instalar o vscode.
+No site do vscode é possivel encontrar orientação de como instalar o vscode.
 
 
 
 #### NODEJS: 
-O Node normalmente é disponibilizado em duas versões, a Current que é a versão mais atual e a LTS que é a de suporte de longo tempo. O LTS significa que esta é a versão mais estável que receberá suporte do time do Node até uma nova versão LTS. Eu utilizei a versão do LTS. Ao fazer o download escolha de acordo com o seu tipo de sistema operacional. 
+O Node normalmente é disponibilizado em duas versões, a Current que é a versão mais atual e a LTS que é a de suporte de longo tempo. O LTS significa que esta é a versão mais estável que receberá suporte do time do Node até uma nova versão LTS. Eu utilizei a versão do LTS. Ao fazer o download escolha de acordo com o seu tipo de sistema operacional. Abaixo o link do nodejs.
 
 ```
-Link: https://nodejs.org/en/
+https://nodejs.org/en/
 ```
 
 
@@ -71,7 +72,7 @@ $  npm init
 Para instalar o express, acesse o terminal, e dentro da pasta do projeto, digite o comando abaixo. A dependencia será criada apenas para o projeto em que esta, e apos executar o comando, verifique que dentro do projeto, será criado uma outra pasta com o nome 'node_modules'. Nessa pasta tem varios modulos que foram importados para o seu projeto, e tambem terá o modulo 'express'. E alem disso, no arquivo 'package.json', será registrado que o projeto terá a dependencia 'express'.
 
 ```
-Comando: npm install express --save
+$  npm install express --save
 ```
 
 
