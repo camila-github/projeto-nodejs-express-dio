@@ -1,6 +1,6 @@
 ## Criação de uma API em Json para simular conexão de um banco de dados. Utilizado Postman para acessar a api.
 
-O projeto publicado é referente ao treinamento do Curso BOOTCAMP - Desenvolvedor NodeJS da Digital Innovation One (https://digitalinnovation.one).
+O projeto publicado é referente ao treinamento do Curso Bootcamp - Desenvolvedor NodeJS da Digital Innovation One (https://digitalinnovation.one).
 
 Foi criado uma API em Json para simular a conexão de um banco de dados. Para testar, é utilizado o Postman para acessar a api, usando os metodos GET(), POST(), PUT(), DELETE(). 
 
