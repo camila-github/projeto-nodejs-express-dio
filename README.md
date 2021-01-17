@@ -1,4 +1,4 @@
-## Treinamento Digital Innovation One - Curso BOOTCAMP - Desenvolvedor NodeJS 
+## Criação de uma API em Json para simular conexão de um banco de dados. Utilizado Postman para acessar a api.
 
 O projeto publicado é referente ao treinamento do Curso BOOTCAMP - Desenvolvedor NodeJS da Digital Innovation One (https://digitalinnovation.one).
 
