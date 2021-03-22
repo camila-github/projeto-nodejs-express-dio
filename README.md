@@ -1,6 +1,6 @@
 ## Projeto: Criação de uma API em Json para simular conexão de um banco de dados.
 
-- Foi criado uma API em Json para simular a conexão de um banco de dados. Para testar, foi utilizado o Postman para acessar a api, usando os metodos get(), post(), put(), delete(). 
+- Foi criado uma API em Json para simular a conexão de um banco de dados. Para testar, foi utilizado o Postman para acessar a api, usando os metodos get( ), post( ), put( ), delete( ). 
 
 - Utilizado as tecnologias voltado ao BackEnd
     * NodeJS 
@@ -13,7 +13,7 @@
 
 - Criação de ambiente NodeJS + Express. 
 - Criação de Rotas utilizando os conceitos de Modulo. 
-- Criação de API com Express com uso dos metodos GET( ), POST( ), PUT( ), DELETE( ). 
+- Criação de API com Express com uso dos metodos get( ), post( ), put( ), delete( ). 
 - Utilização de Postman, para acessar a api.
 
 
